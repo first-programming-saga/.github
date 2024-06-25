@@ -28,23 +28,23 @@ https://github.com/first-programming-saga/dataStructure
 
 https://github.com/first-programming-saga/functions
 
-8. [アルゴリズムとデータ構造](08_SortAndSearch.pdf)
+8. [アルゴリズムとデータ構造](./08_SortAndSearch.pdf)
 
 https://github.com/first-programming-saga/SortAndSearch
 
-9. [Excelを読む](09_ExcelAndCSV.pdf)
+9. [Excelを読む](./09_ExcelAndCSV.pdf)
 
 https://github.com/first-programming-saga/excelAndCSV
 
-10. [Excelを書く](10_ExcelAndCSV2.pdf)
+10. [Excelを書く](./10_ExcelAndCSV2.pdf)
 
 https://github.com/first-programming-saga/excelAndCSV2
 
-11. [作図の基本: 佐賀県の人口構成、九州各県の人口](11_SimplePlot.pdf)
+11. [作図の基本: 佐賀県の人口構成、九州各県の人口](./11_SimplePlot.pdf)
 
 https://github.com/first-programming-saga/plotSample
 
-12. エクセルのデータを作図する: 佐賀県の人口構成推移
+12. [エクセルのデータを作図する: 佐賀県の人口構成推移](./12_PlotWithExcel.pdf)
 
 https://github.com/first-programming-saga/SagaPopulation
 
