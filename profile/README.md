@@ -48,11 +48,11 @@ https://github.com/first-programming-saga/plotSample
 
 https://github.com/first-programming-saga/SagaPopulation
 
-13. Webの利用: 佐賀の天気
+13. [Webの利用: 佐賀の天気](./13_SagaTenki.pdf)
 
 https://github.com/first-programming-saga/withURL
 
-14. オブジェクト指向
+14. [オブジェクト指向](./14_Fractals.pdf)
 
 https://github.com/first-programming-saga/fractals
 
